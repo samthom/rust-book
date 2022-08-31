@@ -1,5 +1,5 @@
 fn main() {
-    let mut s = String::from("Hello world");
+    let s = String::from("Hello world");
 
     let word = first_word(&s);
     // s.clear(); //error

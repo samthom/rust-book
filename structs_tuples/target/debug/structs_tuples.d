@@ -1,0 +1,1 @@
+/Users/samthomas/Documents/Work/Projects/programming-langs/rust-book/structs_tuples/target/debug/structs_tuples: /Users/samthomas/Documents/Work/Projects/programming-langs/rust-book/structs_tuples/src/main.rs
